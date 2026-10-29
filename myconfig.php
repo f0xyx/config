@@ -22,7 +22,7 @@
 /* ============================== KONFIGURASI ============================== */
 $FOX = array(
     // Hash bcrypt untuk password login. Default di bawah = "admin" (GANTI!).
-    'password'       => '$2y$12$0nTAWA5Qx3Wor.AOAy2KpedxfN8O5QHCQ1Gg6pLhPkqpeJLNsLIk2',
+    'password'       => '',
 
     // Root folder yang ditampilkan. Kosongkan = otomatis:
     //   - ABSPATH bila WordPress terdeteksi
